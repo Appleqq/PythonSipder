@@ -1,13 +1,17 @@
 import scrapy
 import json
+import requests
 from schoolsInfo.items import SchoolsinfoItem
 
 class schools(scrapy.Spider):
     name = 'schoolsInfo'
     allowed_domains = ['static-data.eol.cn']
-    i = 13;
+    response = requests.get('https://easy-mock.com/mock/5d1a07eea71c21114c52d7a1/schools/province')
+    jsonStr = json.loads(response.text)
+    data = jsonStr['data']
     start_urls = ['https://static-data.eol.cn/www/2.0/schoolprovinceindex/2018/102/13/1/1.json']
-    while i <= 44:
+    for info in data:
+        i = info['provinceId']
         j = 2014
         while j <= 2018:
             k = 30
@@ -20,7 +24,6 @@ class schools(scrapy.Spider):
                     n = n + 1
                 k = k + 1
             j = j + 1
-        i = i + 1
 
     def parse(self, response):
         data = json.loads(response.body_as_unicode())

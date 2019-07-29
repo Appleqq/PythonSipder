@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0575d2c-31f0-462b-aa3e-ba4e035bcc55" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/../.idea/Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/Python.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/schoolsInfo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/schoolsInfo.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/items.json" beforeDir="false" afterPath="$PROJECT_DIR$/items.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/schoolsInfo/content.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/schoolsInfo/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/schoolsInfo/pipelines.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/schoolsInfo/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/schoolsInfo/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/schoolsInfo/spiders/schools_spiders.py" beforeDir="false" afterPath="$PROJECT_DIR$/schoolsInfo/spiders/schools_spiders.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -61,8 +52,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/schoolsInfo/spiders/schools_spiders.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="17" lean-forward="true" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+            <state relative-caret-position="180">
+              <caret line="17" column="27" lean-forward="true" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -75,10 +66,10 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/schoolsInfo/pipelines.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="482">
+            <state relative-caret-position="266">
               <caret line="37" column="171" selection-start-line="37" selection-start-column="171" selection-end-line="37" selection-end-column="171" />
               <folding>
                 <element signature="e#193#207#0" expanded="true" />
@@ -87,11 +78,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/schoolsInfo/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-51">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+            <state relative-caret-position="-825">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
             </state>
           </provider>
         </entry>
@@ -114,12 +105,12 @@
         <option value="$PROJECT_DIR$/schoolsInfo/items.py" />
         <option value="$PROJECT_DIR$/schoolsInfo/content.txt" />
         <option value="$PROJECT_DIR$/schoolsInfo/settings.py" />
-        <option value="$PROJECT_DIR$/schoolsInfo/spiders/schools_spiders.py" />
         <option value="$PROJECT_DIR$/schoolsInfo/pipelines.py" />
+        <option value="$PROJECT_DIR$/schoolsInfo/spiders/schools_spiders.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="777" />
@@ -190,11 +181,15 @@
       <workItem from="1562847767775" duration="374000" />
       <workItem from="1563288780978" duration="1936000" />
       <workItem from="1563291478933" duration="5473000" />
+      <workItem from="1563461751629" duration="640000" />
+      <workItem from="1563709487473" duration="907000" />
+      <workItem from="1564058190735" duration="71000" />
+      <workItem from="1564408899961" duration="1912000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18384000" />
+    <option name="totallyTimeSpent" value="21914000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -206,11 +201,11 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <frame x="0" y="23" width="1280" height="777" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49452055" visible="true" weight="0.27544427" />
-      <window_info id="Structure" order="1" sideWeight="0.50547945" side_tool="true" visible="true" weight="0.27544427" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.48815167" visible="true" weight="0.2924071" />
+      <window_info id="Structure" order="1" sideWeight="0.51184833" side_tool="true" visible="true" weight="0.2924071" />
       <window_info id="Favorites" order="2" sideWeight="0.5020408" side_tool="true" weight="0.26332796" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -221,7 +216,7 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32876712" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4983845" weight="0.3849315" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.4983845" visible="true" weight="0.38394162" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5016155" side_tool="true" weight="0.3890411" />
       <window_info anchor="bottom" id="Version Control" order="11" weight="0.32876712" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32876712" />
@@ -237,6 +232,9 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/schoolsInfo/content.txt" />
+    <entry file="file://$PROJECT_DIR$/schoolsInfo/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/schoolsInfo/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -250,33 +248,30 @@
     <entry file="file://$PROJECT_DIR$/items.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/schoolsInfo/middlewares.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/schoolsInfo/spiders/schools_spiders.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="17" lean-forward="true" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+        <state relative-caret-position="180">
+          <caret line="17" column="27" lean-forward="true" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/schoolsInfo/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-51">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/schoolsInfo/pipelines.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="482">
+        <state relative-caret-position="266">
           <caret line="37" column="171" selection-start-line="37" selection-start-column="171" selection-end-line="37" selection-end-column="171" />
           <folding>
             <element signature="e#193#207#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schoolsInfo/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-825">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
