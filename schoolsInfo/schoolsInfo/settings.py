@@ -14,6 +14,14 @@ BOT_NAME = 'schoolsInfo'
 SPIDER_MODULES = ['schoolsInfo.spiders']
 NEWSPIDER_MODULE = 'schoolsInfo.spiders'
 
+# 键值是优先级，数字越小则对应的Pipeline越先被调用
+ITEM_PIPELINES = {
+    'schoolsInfo.pipelines.MongoPipeline': 400
+}
+
+MONGO_URI = 'localhost'
+MONGO_DB = 'quickstart_schools'
+MONGO_PORT = '27017'
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = 'schoolsInfo (+http://www.yourdomain.com)'
